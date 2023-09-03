@@ -1,1 +1,1 @@
-### Hi there my name is jalen. 
+Hi, Im jalen, an IT Professional.
