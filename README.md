@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Creating Virtual Machines](https://github.com/jalenallen21/Virtual-Machines)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jalenallen21/ticket-lifecycle)
-  - [Virtual Private Netqorking (VPN)](https://github.com/jalenallen21/Virtual-Private-Network-Setup)
+  - [Virtual Private Networking (VPN)](https://github.com/jalenallen21/Virtual-Private-Network-Setup)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jalenallen21/configure-ad)
  
