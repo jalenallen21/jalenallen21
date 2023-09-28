@@ -7,7 +7,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jalenallen21/ticket-lifecycle)
   - [Virtual Private Networking (VPN)](https://github.com/jalenallen21/Virtual-Private-Network-Setup)
 - <b>Microsoft Azure</b>
-  - [Active Directory within Azure VMs](https://github.com/jalenallen21/configure-ad)
+  - [Active Directory within Azure VMs](https://github.com/jalenallen21/Active-Directory-Functions)
  
 
 <h2>🤳Connect with me:</h2>
