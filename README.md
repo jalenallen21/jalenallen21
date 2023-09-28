@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket Help Desk Ticketing System,Virtual Machines, Virtual Private Networks</b>
+- <b>osTicket Help Desk Ticketing System,Virtual Machines, Virtual Private Networks, Active Directory</b>
   - [Creating Virtual Machines](https://github.com/jalenallen21/Virtual-Machines)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jalenallen21/ticket-lifecycle)
   - [Virtual Private Networking (VPN)](https://github.com/jalenallen21/Virtual-Private-Network-Setup)
