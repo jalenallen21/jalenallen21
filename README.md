@@ -16,4 +16,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Jalen
+[linkedin]: https://www.linkedin.com/in/jalen-allen-97583a292/
